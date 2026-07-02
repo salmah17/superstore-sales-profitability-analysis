@@ -33,6 +33,7 @@ https://www.kaggle.com/datasets/roopacalistus/superstore/data
 ## Dashboard
 
 Dashboard screenshot available in this repository.
+![Dashboard](Dashboard.png)
 
 ## Skills Demonstrated
 
